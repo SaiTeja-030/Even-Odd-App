@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  padding-top: 200px;
+  background-image: linear-gradient(#dd394f, #bfe9ff);
+  height: 100vh;
+}
+
+.heading {
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.para {
+  padding-top: 50px;
+  font-size: 30px;
+  font-weight: italic;
+}
+
+.button {
+  /* padding: 14px; */
+  height: 38px;
+  width: 170px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.para-2 {
+  color: #334155;
+  font-weight: bold;
+}
